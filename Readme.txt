@@ -10,4 +10,4 @@ Guidance to use this project
 
 4. Run the Main.py file and enjoy
 
-5. Get The Drive Link in Library Installation File <a href="https://drive.google.com/drive/u/0/folders/1wmLa2O3HdwnVFu0S1eCU0HnfAzdjXjyM">Drive Link</a>
+5. Drive Link --> https://drive.google.com/drive/u/0/folders/1wmLa2O3HdwnVFu0S1eCU0HnfAzdjXjyM
