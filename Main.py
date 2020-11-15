@@ -809,6 +809,7 @@ class App(QMainWindow):
             self.frame_9_text.setText("\n\nSomething Went Wrong")
             self.frame_9_text.move(50,100)
             
+            
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     ex = App()
