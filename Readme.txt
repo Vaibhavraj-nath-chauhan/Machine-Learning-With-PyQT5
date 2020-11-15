@@ -8,6 +8,6 @@ Guidance to use this project
 
 3.  Make sure that whole git files and drive files installed at same location
 
-4. Run the Main.py file and enjoy
+4. Run the Main.py file
 
 5. Drive Link --> https://drive.google.com/drive/u/0/folders/1wmLa2O3HdwnVFu0S1eCU0HnfAzdjXjyM
